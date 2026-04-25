@@ -23,6 +23,12 @@ The system follows a **Hybrid Methodology**:
 *   **Dimensional Accuracy**: Measurements are pulled directly from model data using code. AI is not used for geometric extraction to ensure 100% mathematical precision.
 *   **Semantic Intelligence**: AI is used for data auditing. If a parameter is missing, the system suggests values based on element names or spatial context.(Added just to get summery about the building. build using gemini because it has a free trial and sutable for this task.)
 
+## 🛡️ Code Quality & Automation
+
+To maintain a clean and professional codebase, this project includes:
+*   **Automated Linting**: A Git `pre-commit` hook is installed. It automatically scans your code every time you commit to ensure there are no **unused imports** or **unused variables**.
+*   **Validation**: If a linting error is found, the commit will be blocked until the code is cleaned up, preventing "dead code" from entering the repository.
+
 ## 📌 Important Notes
 
 *   **Units**: All linear dimensions are stored in **Meters** (keys end in `_m`).
