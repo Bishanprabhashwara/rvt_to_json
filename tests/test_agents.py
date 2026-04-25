@@ -51,6 +51,24 @@ def test_extract_elements_with_mock_wall(mock_storey, mock_prop, mock_state):
     assert new_state["data"]["walls"][0]["name"] == "TestWall"
     assert new_state["data"]["walls"][0]["height_m"] == 3000.0
 
+@patch("app.agents.extract_elements_agent.property_value")
+def test_extract_elements_various_types(mock_prop, mock_state):
+    # Mocking Slab, Door, Window, Stair
+    slab = MagicMock(); slab.is_a.return_value = "IfcSlab"; slab.GlobalId = "s1"
+    door = MagicMock(); door.is_a.return_value = "IfcDoor"; door.GlobalId = "d1"
+    win = MagicMock(); win.is_a.return_value = "IfcWindow"; win.GlobalId = "w1"
+    stair = MagicMock(); stair.is_a.return_value = "IfcStair"; stair.GlobalId = "st1"
+    
+    mock_state["model"].by_type.return_value = [slab, door, win, stair]
+    mock_prop.return_value = 1.0 # default scale 1.0
+    
+    new_state = extract_elements_agent(mock_state)
+    
+    assert len(new_state["data"]["slabs"]) == 1
+    assert len(new_state["data"]["openings"]["doors"]) == 1
+    assert len(new_state["data"]["openings"]["windows"]) == 1
+    assert len(new_state["data"]["stairs_ramps_balustrades"]) == 1
+
 # 3. Test LLM Gap Analysis Agent (Skip if no key)
 @patch("app.agents.llm_gap_analysis_agent.get_llm")
 def test_llm_gap_analysis_agent_no_key(mock_get_llm, mock_state):

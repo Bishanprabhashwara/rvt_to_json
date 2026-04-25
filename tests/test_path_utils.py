@@ -23,11 +23,8 @@ def test_resolve_input_path_fuzzy(tmp_path, monkeypatch):
     f = d / "My Revit Model.rvt"
     f.write_text("dummy")
     
-    # Change CWD to the tmp_path/models to test local discovery
     monkeypatch.chdir(d)
     
-    # Try resolving with a slightly different name (collapsed spaces)
-    # We expect a FileNotFoundError because it's a fuzzy match, not an exact match
     with pytest.raises(FileNotFoundError) as excinfo:
         resolve_input_path("MyRevitModel.rvt")
     
