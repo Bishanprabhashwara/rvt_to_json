@@ -14,8 +14,8 @@ The pipeline is managed by specialized "Agents" in the following sequence:
 1.  **APS Conversion**: Converts the Revit file into a standard BIM format (IFC) via the Autodesk cloud.
 2.  **`load_model_agent`**: Downloads model data and prepares it for processing.
 3.  **`extract_elements_agent`**: Extracts exact measurements for walls, floors, and doors. All dimensions are converted to **SI Meters**.
-4.  **`llm_gap_analysis_agent`**: Scans for missing information (such as fire ratings or materials) and suggests technical inferences using Google Gemini.
-5.  **`schema_alignment_agent`**: Organizes all data into the final hierarchical JSON structure.
+4.  **`llm_gap_analysis_agent`**: (BIM Quality Audit) Scans for missing information, calculates a **Model Completeness Score**, and provides a formal risk assessment using Google Gemini.
+5.  **`schema_alignment_agent`**: Organizes all data and audit findings into the final JSON and HTML structures.
 
 ## 💡 Architecture Approach
 
@@ -81,7 +81,18 @@ To verify the pipeline logic and ensure all agents are working correctly:
 python -m pytest tests/
 ```
 
+## 📊 Professional Outputs
+
+The pipeline generates two distinct files for every run:
+
+1.  **JSON Data Structure (`*.json`)**: The full, high-fidelity BIM extraction. Designed for developers, ERP integrations, and automated estimating tools.
+2.  **BIM Audit Dashboard (`*.html`)**: A premium, visual report for project managers and clients.
+    *   **Completeness Dial**: A visual metric of model health (0-100%).
+    *   **AI Risk Assessment**: Expert business insights highlighting missing data risks.
+    *   **Exceptions Table**: A detailed list of every element missing critical metadata (like Fire Ratings).
+
 ## 📁 Folder Guide
 - `app/agents/`: Node implementations for data extraction and gap analysis.
 - `app/adapters/`: Communication logic for the Autodesk APS API.
-- `output/`: Storage for generated JSON and IFC artifacts.
+- `app/io/`: Utilities for JSON writing and HTML report generation.
+- `output/`: Storage for generated JSON, HTML reports, and IFC artifacts.

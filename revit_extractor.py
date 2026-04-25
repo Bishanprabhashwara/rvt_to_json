@@ -12,6 +12,7 @@ from app.agents.schema_alignment_agent import schema_alignment_agent as schema_a
 from app.agents.state import ExtractState
 from app.config.settings import Settings
 from app.io.output_writer import ensure_output_dir, write_json
+from app.io.report_generator import generate_html_report
 
 def build_graph() -> Any:
     graph = StateGraph(ExtractState)
@@ -120,9 +121,12 @@ def main() -> None:
     n_windows = len(data.get("openings", {}).get("windows", []))
     errors  = result.get("errors", [])
 
+    html_path = generate_html_report(result, str(output_dir / base_name))
+
     print("\n" + "=" * 67)
     print(f"  [DONE]  Pipeline complete!")
-    print(f"  [OUT ]  Output : {output_path}")
+    print(f"  [OUT ]  JSON   : {output_path}")
+    print(f"  [OUT ]  REPORT : {html_path}")
     print(f"  [INFO]  Elements: {n_walls} walls, {n_slabs} slabs, {n_doors} doors, {n_windows} windows   |   Unit: meters")
     if errors:
         print(f"  [WARN]  Errors  : {len(errors)} (see JSON output for details)")

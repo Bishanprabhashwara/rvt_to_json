@@ -11,7 +11,4 @@ ENV/
 .coverage
 htmlcov/
 
-output/*.ifc
-output/*.json
-
 .git/hooks/

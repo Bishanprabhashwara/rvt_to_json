@@ -16,14 +16,22 @@ def schema_alignment_agent(state: ExtractState) -> ExtractState:
         size_mb = 0.0
 
     meta = state.get("extraction_metadata", {})
-    if state.get("gemini_notes"):
-        meta["llm_gap_analysis"] = state.get("gemini_notes")
+    
+    # --- Quality Audit Section ---
+    score = state.get("audit_score", 0.0)
+    report = state.get("gemini_notes", "Audit not performed.")
+    
+    audit_report = {
+        "completeness_score": f"{score}%",
+        "detailed_report": report
+    }
 
     result = {
         "data": state.get("data", {}),
         "status": "success",
         "file_name": file_name,
         "file_size_mb": size_mb,
+        "bim_quality_audit": audit_report,
         "extraction_metadata": meta
     }
 

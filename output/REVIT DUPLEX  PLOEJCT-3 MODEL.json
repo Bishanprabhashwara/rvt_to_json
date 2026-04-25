@@ -1,0 +1,3599 @@
+{
+  "data": {
+    "slabs": [
+      {
+        "name": "Floor:Generic 150mm:206436",
+        "storey": "GROUND LVL",
+        "area_sqm": 23.456855447278834,
+        "material": "Default Floor",
+        "global_id": "3$SefaWp9BKfTv1kiN5VsB",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Generic 150mm",
+        "load_bearing": false,
+        "thickness_m": 0.14999999999999997,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:200MM WITH FLOOR FLOOR FINISH:206475",
+        "storey": "F.F.L LVL",
+        "area_sqm": 14.695845482830949,
+        "material": "Default Floor + Concrete, Cast-in-Place gray",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vra",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:200MM WITH FLOOR FLOOR FINISH",
+        "load_bearing": false,
+        "thickness_m": 0.1524,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:210540 Landing 1",
+        "storey": null,
+        "area_sqm": null,
+        "material": "Concrete, Cast In Situ",
+        "global_id": "3$SefaWp9BKfTv1kiN5Un0",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Monolithic Landing:300mm Thickness",
+        "load_bearing": null,
+        "thickness_m": null,
+        "predefined_type": "LANDING"
+      },
+      {
+        "name": "Floor:200MM SLAB RCC:211014",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 12.67508103729688,
+        "material": "Default Floor + Concrete, Cast-in-Place gray",
+        "global_id": "3$SefaWp9BKfTv1kiN5UEf",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:200MM SLAB RCC",
+        "load_bearing": true,
+        "thickness_m": 0.2032,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:211515 Landing 1",
+        "storey": null,
+        "area_sqm": null,
+        "material": "Concrete, Cast In Situ",
+        "global_id": "3$SefaWp9BKfTv1kiN5U6l",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Monolithic Landing:300mm Thickness",
+        "load_bearing": null,
+        "thickness_m": null,
+        "predefined_type": "LANDING"
+      },
+      {
+        "name": "Floor:200MM SLAB RCC:211561",
+        "storey": "TERRACE F.F.L",
+        "area_sqm": 14.81524063480141,
+        "material": "Default Floor + Concrete, Cast-in-Place gray",
+        "global_id": "3$SefaWp9BKfTv1kiN5U66",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:200MM SLAB RCC",
+        "load_bearing": true,
+        "thickness_m": 0.2032,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:150MM SLAB:212175",
+        "storey": "MUMTY T.O.C",
+        "area_sqm": 6.37882984360509,
+        "material": "Concrete, Cast-in-Place gray",
+        "global_id": "3$SefaWp9BKfTv1kiN5USW",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:150MM SLAB",
+        "load_bearing": true,
+        "thickness_m": 0.1524,
+        "predefined_type": "FLOOR"
+      }
+    ],
+    "walls": [
+      {
+        "name": "Basic Wall:9\" WALL:211944",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.7058219425726567,
+        "material": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5U07",
+        "height_m": 2.9972000000000008,
+        "length_m": 2.5527000000000366,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211946",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.7517339337420231,
+        "material": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5U05",
+        "height_m": 2.7940000000000014,
+        "length_m": 3.9052499999999686,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:212813",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5UIY"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:212026",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.44065921550560905,
+        "material": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5UVL",
+        "height_m": 1.2192,
+        "length_m": 3.8290499999999654,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:212106",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.7427433349490687,
+        "material": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5UTb",
+        "height_m": 1.2192,
+        "length_m": 6.496049999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:203980",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.3711319181733889,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SSZ",
+        "height_m": 0.6096,
+        "length_m": 12.8778,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204065",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.3362483948567028,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SRE",
+        "height_m": 0.6096,
+        "length_m": 11.988799999999959,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204187",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.3387657625187328,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SPq",
+        "height_m": 0.6096,
+        "length_m": 11.9634,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204243",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.2686390919336454,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SOy",
+        "height_m": 0.6096,
+        "length_m": 9.48690000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204297",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.1674049495249158,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SNc",
+        "height_m": 0.45720000000000005,
+        "length_m": 5.911850000000022,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204455",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.15859416270781496,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SL8",
+        "height_m": 0.45720000000000005,
+        "length_m": 5.715000000000018,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:204566",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.08954636397788111,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SJv",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.3908999999999825,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:204653",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.10357169809489929,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5SI2",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.7719000000000014,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:204819",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.09799752684326433,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vly",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.5877500000000118,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:204871",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.0656313711886082,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vke",
+        "height_m": 0.45720000000000005,
+        "length_m": 2.495550000000007,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:204974",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.10698812563622305,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vj1",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.829049999999966,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:205080",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.10554962982934954,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vht",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.9052499999999695,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:205155",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.10914586934653354,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VgC",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.9052499999999686,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:205237",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.178912915979904,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VfQ",
+        "height_m": 0.45720000000000005,
+        "length_m": 6.496049999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:205300",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.10554962982934953,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VeR",
+        "height_m": 0.45720000000000005,
+        "length_m": 3.905249999999968,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:205399",
+        "storey": "GROUND LVL",
+        "area_sqm": 0.05574171251635231,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vcu",
+        "height_m": 0.45720000000000005,
+        "length_m": 2.1463000000000103,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206163",
+        "storey": "F.F.L LVL",
+        "area_sqm": 4.020595780211881,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwy",
+        "height_m": 3.3020000000001373,
+        "length_m": 12.8778,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206164",
+        "storey": "F.F.L LVL",
+        "area_sqm": 3.422601085829439,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwx",
+        "height_m": 3.3020000000001373,
+        "length_m": 11.988799999999959,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:208487",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5VM8"
+          },
+          {
+            "name": "M_Louvers with Trim:V1:210189",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5UxY"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206165",
+        "storey": "F.F.L LVL",
+        "area_sqm": 3.6699624272864235,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vww",
+        "height_m": 3.3020000000001373,
+        "length_m": 11.9634,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206166",
+        "storey": "F.F.L LVL",
+        "area_sqm": 2.3276660274974743,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwv",
+        "height_m": 3.3020000000001373,
+        "length_m": 9.48690000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:208564",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5VLR"
+          },
+          {
+            "name": "M_Sliding with Trim:W1:208714",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5VIb"
+          },
+          {
+            "name": "M_Sliding with Trim:W1:208786",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5VHz"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206167",
+        "storey": "F.F.L LVL",
+        "area_sqm": 1.174623620090079,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwu",
+        "height_m": 3.3020000000001373,
+        "length_m": 5.911850000000022,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Bifold-4 Panel:MD:213784",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5PZt"
+          },
+          {
+            "name": "M_Fixed:W2:208986",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5Ukr"
+          },
+          {
+            "name": "M_Fixed:W2:209059",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5UjC"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:206169",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.9700856097604189,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vws",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.3908999999999825,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206170",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.9173707321710385,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwr",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.829049999999984,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:207048",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5VCd"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206171",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.8237644055599914,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwq",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.5877500000000118,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206172",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.7110065212099518,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwp",
+        "height_m": 3.3020000000001373,
+        "length_m": 2.495550000000007,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206173",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.5807627133626112,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwo",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.829049999999966,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:206987",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5VDa"
+          },
+          {
+            "name": "M_Single-Flush:D2:207146",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5VB5"
+          },
+          {
+            "name": "M_Sliding with Trim:W3:210415",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5Uu0"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206174",
+        "storey": "F.F.L LVL",
+        "area_sqm": 1.1434543231513339,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwn",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.9052499999999695,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206175",
+        "storey": "F.F.L LVL",
+        "area_sqm": 1.1824135845874957,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vwm",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.9052499999999686,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206176",
+        "storey": "F.F.L LVL",
+        "area_sqm": 1.6965559608942755,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VwF",
+        "height_m": 3.3020000000001373,
+        "length_m": 6.496049999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:206896",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5VFV"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206177",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.9363109269615356,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VwE",
+        "height_m": 3.3020000000001373,
+        "length_m": 3.905249999999968,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D2:207677",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5V3I"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206178",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.39672515607071007,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VwD",
+        "height_m": 3.3020000000001373,
+        "length_m": 2.1463000000000103,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D2:207544",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5V5N"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:206370",
+        "storey": "F.F.L LVL",
+        "area_sqm": 1.3168230365422688,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5VtD",
+        "height_m": 3.3020000000001373,
+        "length_m": 4.47040000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:PLASTER-1:206729",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.07791852287232322,
+        "material": "Default",
+        "global_id": "3$SefaWp9BKfTv1kiN5Vnc",
+        "height_m": 3.3020000000001373,
+        "length_m": 0.3111499999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:PLASTER-1",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:PLASTER-1:206769",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.027271483005313246,
+        "material": "Default",
+        "global_id": "3$SefaWp9BKfTv1kiN5VnU",
+        "height_m": 3.3020000000001373,
+        "length_m": 0.15874999999999964,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:PLASTER-1",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:207640",
+        "storey": "F.F.L LVL",
+        "area_sqm": 0.4708376587873363,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5V3t",
+        "height_m": 3.3020000000001373,
+        "length_m": 1.7462500000000032,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Louvers with Trim:V1:210250",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5Uwb"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211480",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 4.268017058994181,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7t",
+        "height_m": 3.5052000000000003,
+        "length_m": 12.8778,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211481",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 3.675399096474252,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7s",
+        "height_m": 3.5052000000000003,
+        "length_m": 12.07672557916885,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:211506",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7T"
+          },
+          {
+            "name": "M_Louvers with Trim:V1:211512",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7N"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211482",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 3.8958062689656168,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7r",
+        "height_m": 3.5052000000000003,
+        "length_m": 11.9634,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211483",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 2.2996153592634685,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7q",
+        "height_m": 3.5052000000000003,
+        "length_m": 9.48690000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:211507",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7S"
+          },
+          {
+            "name": "M_Sliding with Trim:W1:211508",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7R"
+          },
+          {
+            "name": "M_Sliding with Trim:W1:211509",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7Q"
+          },
+          {
+            "name": "M_Single-Flush:D2:214303",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5Pxm"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211484",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.5624181146931062,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7p",
+        "height_m": 3.5052000000000003,
+        "length_m": 5.911850000000022,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Fixed:W2:211510",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7P"
+          },
+          {
+            "name": "M_Fixed:W2:211511",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7O"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211485",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.0297831857456827,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7o",
+        "height_m": 3.5052000000000003,
+        "length_m": 3.3908999999999825,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211486",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.9173707321710387,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7n",
+        "height_m": 3.302000000000171,
+        "length_m": 3.829049999999984,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:211500",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U73"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211487",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.8237644055599914,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7m",
+        "height_m": 3.302000000000171,
+        "length_m": 3.5877500000000118,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211488",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.7110065212099518,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7F",
+        "height_m": 3.302000000000171,
+        "length_m": 2.495550000000007,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211489",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.5807627133626112,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7E",
+        "height_m": 3.302000000000171,
+        "length_m": 3.829049999999966,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:211499",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U74"
+          },
+          {
+            "name": "M_Single-Flush:D2:211501",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U72"
+          },
+          {
+            "name": "M_Sliding with Trim:W3:211514",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7L"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211490",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.1434543231513339,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7D",
+        "height_m": 3.302000000000171,
+        "length_m": 3.9052499999999695,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211491",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.1824135845874957,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7C",
+        "height_m": 3.302000000000171,
+        "length_m": 3.9052499999999686,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211492",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.6965559608942755,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7B",
+        "height_m": 3.302000000000171,
+        "length_m": 6.496049999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D1:211498",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U75"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211493",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.9363109269615358,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7A",
+        "height_m": 3.302000000000171,
+        "length_m": 3.905249999999968,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D2:211505",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7U"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211494",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.3967251560707101,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U79",
+        "height_m": 3.302000000000171,
+        "length_m": 2.1463000000000103,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D2:211503",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5U70"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211495",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 1.316823036542269,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U78",
+        "height_m": 3.302000000000171,
+        "length_m": 4.47040000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:PLASTER-1:211496",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.07791852287232322,
+        "material": "Default",
+        "global_id": "3$SefaWp9BKfTv1kiN5U77",
+        "height_m": 3.302000000000171,
+        "length_m": 0.3111499999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:PLASTER-1",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:PLASTER-1:211497",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.027271483005313246,
+        "material": "Default",
+        "global_id": "3$SefaWp9BKfTv1kiN5U76",
+        "height_m": 3.302000000000171,
+        "length_m": 0.15874999999999964,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:PLASTER-1",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211504",
+        "storey": "1ST FLOOR LVL",
+        "area_sqm": 0.4708376587873363,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7V",
+        "height_m": 3.302000000000171,
+        "length_m": 1.7462500000000032,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Louvers with Trim:V1:211513",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7M"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:211755",
+        "storey": "1ST FLOOR T.O.C",
+        "area_sqm": 0.23276660274973593,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U34",
+        "height_m": 0.45720000000000005,
+        "length_m": 5.657850000000035,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:211945",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.7517339337420228,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5U06",
+        "height_m": 2.7940000000000014,
+        "length_m": 3.9052499999999695,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Sliding with Trim:W1:212673",
+            "type": "Window",
+            "global_id": "3$SefaWp9BKfTv1kiN5UKk"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:212027",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 1.3549526799741642,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5UVK",
+        "height_m": 1.2192,
+        "length_m": 12.07672557916885,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:9\" WALL:212028",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 1.342116587813069,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5UVJ",
+        "height_m": 1.2192,
+        "length_m": 11.9634,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:9\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.2032
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:212452",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.38815411855473597,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5UOB",
+        "height_m": 2.7940000000000014,
+        "length_m": 2.552700000000037,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Single-Flush:D2:212478",
+            "type": "Door",
+            "global_id": "3$SefaWp9BKfTv1kiN5UOH"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214051",
+        "storey": "1ST FLOOR T.O.C",
+        "area_sqm": 0.052864720902604884,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5P$C",
+        "height_m": 0.45720000000000005,
+        "length_m": 1.181100000000001,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214119",
+        "storey": "1ST FLOOR T.O.C",
+        "area_sqm": 0.4725458725579777,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5P_8",
+        "height_m": 0.45720000000000005,
+        "length_m": 11.125200000000001,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214157",
+        "storey": "1ST FLOOR T.O.C",
+        "area_sqm": 0.17315893275241123,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5PzY",
+        "height_m": 0.45720000000000005,
+        "length_m": 4.076700000000036,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214187",
+        "storey": "1ST FLOOR T.O.C",
+        "area_sqm": 0.06904779872993194,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Pz4",
+        "height_m": 0.45720000000000005,
+        "length_m": 1.8033999999999792,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214792",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.05718020832322567,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Ppd",
+        "height_m": 0.45720000000000005,
+        "length_m": 1.2827000000000008,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214793",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.4725458725579777,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Ppc",
+        "height_m": 0.45720000000000005,
+        "length_m": 11.125200000000001,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214794",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.17315893275241123,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Ppb",
+        "height_m": 0.45720000000000005,
+        "length_m": 4.076700000000036,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:4.5\" WALL:214795",
+        "storey": "TERRACE T.O.C",
+        "area_sqm": 0.06904779872993194,
+        "material": "Default Wall + Brick, Common",
+        "global_id": "3$SefaWp9BKfTv1kiN5Ppa",
+        "height_m": 0.45720000000000005,
+        "length_m": 1.8033999999999792,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:4.5\" WALL",
+        "load_bearing": false,
+        "thickness_m": null,
+        "material_layers": [
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          },
+          {
+            "name": "Brick, Common",
+            "thickness_m": 0.1016
+          },
+          {
+            "name": "Default Wall",
+            "thickness_m": 0.0127
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      }
+    ],
+    "proxies": [],
+    "openings": {
+      "doors": [
+        {
+          "name": "M_Single-Flush:D1:206896",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.0668000000000006,
+          "global_id": "3$SefaWp9BKfTv1kiN5VFV",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206176",
+            "global_id": "3$SefaWp9BKfTv1kiN5VwF"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668000000000006,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D1:206987",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.0668,
+          "global_id": "3$SefaWp9BKfTv1kiN5VDa",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206173",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwo"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D1:207048",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.0668,
+          "global_id": "3$SefaWp9BKfTv1kiN5VCd",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206170",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwr"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:207146",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9144000000000005,
+          "global_id": "3$SefaWp9BKfTv1kiN5VB5",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206173",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwo"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000005,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:207544",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5V5N",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206178",
+            "global_id": "3$SefaWp9BKfTv1kiN5VwD"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:207677",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5V3I",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206177",
+            "global_id": "3$SefaWp9BKfTv1kiN5VwE"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D1:211498",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.0668000000000006,
+          "global_id": "3$SefaWp9BKfTv1kiN5U75",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211492",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7B"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668000000000006,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D1:211499",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.0668,
+          "global_id": "3$SefaWp9BKfTv1kiN5U74",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211489",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7E"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D1:211500",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.0668,
+          "global_id": "3$SefaWp9BKfTv1kiN5U73",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211486",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7n"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.0668,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:211501",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9144000000000005,
+          "global_id": "3$SefaWp9BKfTv1kiN5U72",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211489",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7E"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000005,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:211503",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5U70",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211494",
+            "global_id": "3$SefaWp9BKfTv1kiN5U79"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:211505",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7U",
+          "height_m": 2.4383999999999997,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211493",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7A"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:212478",
+          "storey": "TERRACE F.F.L",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5UOH",
+          "height_m": 2.4384,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:212452",
+            "global_id": "3$SefaWp9BKfTv1kiN5UOB"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Bifold-4 Panel:MD:213784",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.2191999999999998,
+          "global_id": "3$SefaWp9BKfTv1kiN5PZt",
+          "height_m": 2.4384,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206167",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwu"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Bifold-4 Panel:MD",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.2191999999999998,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Single-Flush:D2:214303",
+          "storey": "1ST FLOOR T.O.C",
+          "material": null,
+          "width_m": 0.9144000000000005,
+          "global_id": "3$SefaWp9BKfTv1kiN5Pxm",
+          "height_m": 2.4384,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211483",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7q"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Single-Flush:D2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000005,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        }
+      ],
+      "windows": [
+        {
+          "name": "M_Sliding with Trim:W1:208487",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.371599999999999,
+          "global_id": "3$SefaWp9BKfTv1kiN5VM8",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206164",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwx"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.371599999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:208564",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5VLR",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206166",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwv"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:208714",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5VIb",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206166",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwv"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:208786",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 1.3716000000000002,
+          "global_id": "3$SefaWp9BKfTv1kiN5VHz",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206166",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwv"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3716000000000002,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Fixed:W2:208986",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9149999999999994,
+          "global_id": "3$SefaWp9BKfTv1kiN5Ukr",
+          "height_m": 2.1335999999999973,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206167",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwu"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Fixed:W2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9149999999999994,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.35289196704047426
+        },
+        {
+          "name": "M_Fixed:W2:209059",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9149999999999999,
+          "global_id": "3$SefaWp9BKfTv1kiN5UjC",
+          "height_m": 2.1335999999999973,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206167",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwu"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Fixed:W2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9149999999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.35289196704047426
+        },
+        {
+          "name": "M_Louvers with Trim:V1:210189",
+          "storey": "F.F.L LVL",
+          "material": "Birch",
+          "width_m": 0.4571999999999995,
+          "global_id": "3$SefaWp9BKfTv1kiN5UxY",
+          "height_m": 0.6096000000000119,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:206164",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwx"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Louvers with Trim:V1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.4571999999999995,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.13252667604851295
+        },
+        {
+          "name": "M_Louvers with Trim:V1:210250",
+          "storey": "F.F.L LVL",
+          "material": "Birch",
+          "width_m": 0.4571999999999995,
+          "global_id": "3$SefaWp9BKfTv1kiN5Uwb",
+          "height_m": 0.6096000000000119,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:207640",
+            "global_id": "3$SefaWp9BKfTv1kiN5V3t"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Louvers with Trim:V1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.4571999999999995,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.11310698265571913
+        },
+        {
+          "name": "M_Sliding with Trim:W3:210415",
+          "storey": "F.F.L LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5Uu0",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:206173",
+            "global_id": "3$SefaWp9BKfTv1kiN5Vwo"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W3",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.3365502066401704
+        },
+        {
+          "name": "M_Sliding with Trim:W1:211506",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.371599999999999,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7T",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211481",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7s"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.371599999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:211507",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7S",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211483",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7q"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:211508",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7R",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211483",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7q"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Sliding with Trim:W1:211509",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 1.3716000000000002,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7Q",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211483",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7q"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3716000000000002,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4884656051055389
+        },
+        {
+          "name": "M_Fixed:W2:211510",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9149999999999994,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7P",
+          "height_m": 2.1335999999999973,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211484",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7p"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Fixed:W2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9149999999999994,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.35289196704047426
+        },
+        {
+          "name": "M_Fixed:W2:211511",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9149999999999999,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7O",
+          "height_m": 2.1335999999999973,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211484",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7p"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Fixed:W2",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9149999999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.35289196704047426
+        },
+        {
+          "name": "M_Louvers with Trim:V1:211512",
+          "storey": "1ST FLOOR LVL",
+          "material": "Birch",
+          "width_m": 0.4571999999999995,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7N",
+          "height_m": 0.6096000000000119,
+          "host_wall": {
+            "name": "Basic Wall:9\" WALL:211481",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7s"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Louvers with Trim:V1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.4571999999999995,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.13252667604851295
+        },
+        {
+          "name": "M_Louvers with Trim:V1:211513",
+          "storey": "1ST FLOOR LVL",
+          "material": "Birch",
+          "width_m": 0.4571999999999995,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7M",
+          "height_m": 0.6096000000000119,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211504",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7V"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Louvers with Trim:V1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.4571999999999995,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.11310698265571913
+        },
+        {
+          "name": "M_Sliding with Trim:W3:211514",
+          "storey": "1ST FLOOR LVL",
+          "material": null,
+          "width_m": 0.9144000000000001,
+          "global_id": "3$SefaWp9BKfTv1kiN5U7L",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211489",
+            "global_id": "3$SefaWp9BKfTv1kiN5U7E"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W3",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 0.9144000000000001,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.3365502066401704
+        },
+        {
+          "name": "M_Sliding with Trim:W1:212673",
+          "storey": "TERRACE F.F.L",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5UKk",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211945",
+            "global_id": "3$SefaWp9BKfTv1kiN5U06"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4350015109500703
+        },
+        {
+          "name": "M_Sliding with Trim:W1:212813",
+          "storey": "TERRACE F.F.L",
+          "material": null,
+          "width_m": 1.3715999999999984,
+          "global_id": "3$SefaWp9BKfTv1kiN5UIY",
+          "height_m": 1.5239999999999947,
+          "host_wall": {
+            "name": "Basic Wall:4.5\" WALL:211946",
+            "global_id": "3$SefaWp9BKfTv1kiN5U05"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Sliding with Trim:W1",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_m": 1.3715999999999984,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_m": null,
+          "sill_height_m": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 0.4350015109500703
+        }
+      ]
+    },
+    "coverings": [],
+    "wet_areas": [],
+    "furnishing": [],
+    "project_metadata": {
+      "scale": null,
+      "units": {
+        "count": 7,
+        "units": [
+          {
+            "name": "FOOT",
+            "prefix": null,
+            "unit_type": "LENGTHUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "SQUARE_METRE",
+            "prefix": "None",
+            "unit_type": "AREAUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "CUBIC_METRE",
+            "prefix": "None",
+            "unit_type": "VOLUMEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "THERMALTRANSMITTANCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "USERDEFINED",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "THERMALRESISTANCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "DEGREE",
+            "prefix": null,
+            "unit_type": "PLANEANGLEUNIT",
+            "conversion_factor": null
+          }
+        ]
+      },
+      "north_point": {
+        "x": 0.0,
+        "y": 1.0,
+        "description": "True North at 0.0",
+        "compass_bearing_degrees": 0.0,
+        "angle_from_x_axis_degrees": 90.0
+      },
+      "project_name": "0001",
+      "drawing_name": null,
+      "drawing_type": null,
+      "project_description": "None",
+      "drawing_number": null
+    },
+    "distribution_elements": [],
+    "rooms_internal_layout": [],
+    "building_site_dimensions": {
+      "fence": [],
+      "driveway": [],
+      "ffl_levels": [
+        {
+          "name": "FOUNDATION",
+          "long_name": "FOUNDATION",
+          "elevation_m": -1.3716000000000004
+        },
+        {
+          "name": "GROUND LVL",
+          "long_name": "GROUND LVL",
+          "elevation_m": 0.0
+        },
+        {
+          "name": "F.F.L LVL",
+          "long_name": "F.F.L LVL",
+          "elevation_m": 0.45720000000000005
+        },
+        {
+          "name": "1ST FLOOR T.O.C",
+          "long_name": "1ST FLOOR T.O.C",
+          "elevation_m": 3.911600000000137
+        },
+        {
+          "name": "1ST FLOOR LVL",
+          "long_name": "1ST FLOOR LVL",
+          "elevation_m": 3.962399999999967
+        },
+        {
+          "name": "TERRACE T.O.C",
+          "long_name": "TERRACE T.O.C",
+          "elevation_m": 7.416800000000138
+        },
+        {
+          "name": "TERRACE F.F.L",
+          "long_name": "TERRACE F.F.L",
+          "elevation_m": 7.467600000000138
+        },
+        {
+          "name": "MUMTY T.O.C",
+          "long_name": "MUMTY T.O.C",
+          "elevation_m": 10.21080000000014
+        }
+      ],
+      "site_area_sqm": null,
+      "rear_setback_m": null,
+      "front_setback_m": null,
+      "north_reference": null,
+      "side_setbacks_m": {
+        "left": null,
+        "right": null
+      },
+      "boundary_segments": [],
+      "private_open_space": {
+        "spaces": [],
+        "total_area": null
+      },
+      "building_footprint_area_sqm": null
+    },
+    "stairs_ramps_balustrades": [
+      {
+        "name": "Railing:Glass Panel - Bottom Fill:210884",
+        "type": "NOTDEFINED",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5Umh",
+        "height_m": 0.9,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:Glass Panel - Bottom Fill:211522",
+        "type": "NOTDEFINED",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5U6j",
+        "height_m": 0.9,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:Glass Panel - Bottom Fill:214430",
+        "type": "NOTDEFINED",
+        "storey": "1ST FLOOR LVL",
+        "global_id": "3$SefaWp9BKfTv1kiN5Pvn",
+        "height_m": 0.9,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:Glass Panel - Bottom Fill:214798",
+        "type": "NOTDEFINED",
+        "storey": "TERRACE F.F.L",
+        "global_id": "3$SefaWp9BKfTv1kiN5PpX",
+        "height_m": 0.9,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:210540",
+        "type": "Stair",
+        "storey": "F.F.L LVL",
+        "global_id": "3$SefaWp9BKfTv1kiN5Us3",
+        "height_m": null,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:211515",
+        "type": "Stair",
+        "storey": "1ST FLOOR LVL",
+        "global_id": "3$SefaWp9BKfTv1kiN5U7K",
+        "height_m": null,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:210540 Run 1",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5UoZ",
+        "height_m": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:210540 Run 2",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5Un2",
+        "height_m": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:211515 Run 1",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5U7J",
+        "height_m": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Cast-In-Place Stair:Stair:211515 Run 2",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "3$SefaWp9BKfTv1kiN5U7H",
+        "height_m": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      }
+    ]
+  },
+  "status": "success",
+  "file_name": "REVIT DUPLEX  PLOEJCT-3 MODEL.ifc",
+  "file_size_mb": 1.16,
+  "bim_quality_audit": {
+    "completeness_score": "0.0%",
+    "detailed_report": "BIM Audit Report\n\n1. SUMMARY: The model exhibits significant deficiencies, indicating poor overall health and reliability for construction purposes.\n\n2. MISSING CRITICAL DATA: Critical data missing includes material specifications for 4 walls and fire ratings for all 71 walls.\n\n3. BUSINESS IMPACT: The absence of material data will impede accurate procurement, leading to potential delays, cost overruns, and incorrect material ordering. The complete lack of fire ratings for walls poses a severe safety risk, compromising fire strategy compliance, delaying inspections, and potentially requiring costly rework or re-specification during construction."
+  },
+  "extraction_metadata": {
+    "note": "All dimensions converted to SI Meters.",
+    "has_zones": false,
+    "has_spaces": false,
+    "ifc_schema": "IFC2X3",
+    "entity_counts": {
+      "IfcColumn": 18,
+      "IfcDoor": 15,
+      "IfcRailing": 4,
+      "IfcRamp": 1,
+      "IfcRampFlight": 1,
+      "IfcSlab": 7,
+      "IfcStair": 2,
+      "IfcStairFlight": 4,
+      "IfcWall": 4,
+      "IfcWallStandardCase": 67,
+      "IfcWindow": 20,
+      "IfcOpeningElement": 52,
+      "IfcBuilding": 1,
+      "IfcBuildingStorey": 8,
+      "IfcSite": 1
+    },
+    "extraction_date": "2026-04-25T13:14:50.000000",
+    "extractor_version": "3.1"
+  }
+}

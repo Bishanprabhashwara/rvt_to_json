@@ -1,0 +1,3237 @@
+{
+  "data": {
+    "slabs": [
+      {
+        "name": "Floor:Generic 150mm:176804",
+        "storey": "Level 1",
+        "area_sqm": 0.00010590600000000431,
+        "material": "SH_resin Floor",
+        "global_id": "0WFFycJ9rEj9FbADAA0q3o",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Generic 150mm",
+        "load_bearing": false,
+        "thickness_mm": 150.0,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:Generic 300:418183",
+        "storey": "Level 2",
+        "area_sqm": 0.00010049304164220562,
+        "material": "SH_resin Floor",
+        "global_id": "3OLNF2_DL6hfPgh8Bw7fI7",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Generic 300",
+        "load_bearing": false,
+        "thickness_mm": 300.0,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Pad:Pad 2:490319",
+        "storey": "Level 2",
+        "area_sqm": 0.00014942224966468443,
+        "material": "<Unnamed>",
+        "global_id": "3Pf5WxDcT7yf4sAHDxknUs",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Pad:Pad 2",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:Concrete-Domestic 425mm:495352",
+        "storey": "Level 1",
+        "area_sqm": 3.845999999999986e-05,
+        "material": "Concrete, Sand/Cement Screed + Concrete, Cast In Situ + Rigid insulation + Site - Hardcore",
+        "global_id": "0NWseyvsH7_gBW225aGtZP",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Concrete-Domestic 425mm",
+        "load_bearing": true,
+        "thickness_mm": 425.0,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512277",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4irh",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512279",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4irf",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512297",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4irN",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512299",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4irL",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512319",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ir1",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512321",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4iq$",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512394",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4itq",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512396",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796494e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ito",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512445",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4it3",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512447",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4it1",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512449",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4is$",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512451",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796494e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4isz",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512469",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ish",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512471",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4isf",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512473",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4isd",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512475",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796494e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4isb",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512522",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ivq",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512524",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ivo",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:512526",
+        "storey": "Foundation",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ivm",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:512528",
+        "storey": "Foundation",
+        "area_sqm": 7.067309290796494e-08,
+        "material": null,
+        "global_id": "1bOeIks4fCNAuMrZZw4ivk",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "Floor:Timber Suspended Floor:512683",
+        "storey": "Level 1 Living Rm.",
+        "area_sqm": 7.422057300000166e-05,
+        "material": "Carpet (1) + Structure - Timber Joist/Rafter Layer",
+        "global_id": "0PSFPzOkvFnf082fy0SVrB",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Timber Suspended Floor",
+        "load_bearing": false,
+        "thickness_mm": 247.00000000000003,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Pad:Pad 2:523064",
+        "storey": "Level 1",
+        "area_sqm": 0.00028733745305143743,
+        "material": "<Unnamed>",
+        "global_id": "1ypci01sD9aQpE0S$W9jFF",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Pad:Pad 2",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:Generic 300:549031",
+        "storey": "Level 2",
+        "area_sqm": 9e-06,
+        "material": "SH_resin Floor",
+        "global_id": "1UXnAYut94jfvp2gf33JX9",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Generic 300",
+        "load_bearing": false,
+        "thickness_mm": 300.0,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:Generic 150mm:550255",
+        "storey": "Level 1 Living Rm.",
+        "area_sqm": 1.8002999999999878e-05,
+        "material": "SH_resin Floor",
+        "global_id": "1UXnAYut94jfvp2gf33Js1",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Generic 150mm",
+        "load_bearing": false,
+        "thickness_mm": 150.0,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Floor:Insitu Concrete 225mm:647908",
+        "storey": "Level 1",
+        "area_sqm": 7.007957709510962e-05,
+        "material": "Concrete, Sand/Cement Screed + Concrete, Cast In Situ",
+        "global_id": "1cCK8nA61FduUezO75i8dB",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Insitu Concrete 225mm",
+        "load_bearing": false,
+        "thickness_mm": 225.00000000000003,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Basic Roof:Warm Roof - Timber:724430",
+        "storey": null,
+        "area_sqm": null,
+        "material": "Roofing - Asphalt + Insulation / Thermal Barriers - Rigid insulation + Wood - Sheathing - Chipboard + Wood - Firring + Structure - Timber Joist/Rafter Layer",
+        "global_id": "0LKJKCHUL1kBtnlFXddz6a",
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Roof:Warm Roof - Timber",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "ROOF"
+      },
+      {
+        "name": "Precast Stair:Stair:725045 Landing 1",
+        "storey": null,
+        "area_sqm": null,
+        "material": "Concrete, Cast In Situ",
+        "global_id": "1N_4TwOEH5194SbNmRTDH0",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Monolithic Landing:220mm Thickness",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "LANDING"
+      },
+      {
+        "name": "Floor:Insitu Concrete 225mm:764691",
+        "storey": "Level 2",
+        "area_sqm": 2.6169000000003046e-05,
+        "material": "Concrete, Sand/Cement Screed + Concrete, Cast In Situ",
+        "global_id": "38BWtPCUX0VgAKmmGnoLQm",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Floor:Insitu Concrete 225mm",
+        "load_bearing": true,
+        "thickness_mm": 225.00000000000003,
+        "predefined_type": "FLOOR"
+      },
+      {
+        "name": "Foundation Slab:150mm Foundation Slab:766598",
+        "storey": "Level 2",
+        "area_sqm": 0.00012339316790746976,
+        "material": "Concrete, Cast In Situ",
+        "global_id": "38BWtPCUX0VgAKmmGnoKyb",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Foundation Slab:150mm Foundation Slab",
+        "load_bearing": true,
+        "thickness_mm": 150.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile Cap-600 Pile:600 x 600 x 900mm:767153",
+        "storey": "Level 2",
+        "area_sqm": 3.6e-07,
+        "material": null,
+        "global_id": "38BWtPCUX0VgAKmmGnoKaI",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile Cap-600 Pile:600 x 600 x 900mm",
+        "load_bearing": null,
+        "thickness_mm": 600.0,
+        "predefined_type": "BASESLAB"
+      },
+      {
+        "name": "M_Pile-Steel Pipe:600mm Diameter:767156",
+        "storey": "Level 2",
+        "area_sqm": 7.067309290796493e-08,
+        "material": null,
+        "global_id": "38BWtPCUX0VgAKmmGnoKaN",
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "M_Pile-Steel Pipe:600mm Diameter",
+        "load_bearing": null,
+        "thickness_mm": null,
+        "predefined_type": "BASESLAB"
+      }
+    ],
+    "walls": [
+      {
+        "name": "Basic Wall:SIP 202mm Wall - conc clad:428588",
+        "storey": "Level 2",
+        "area_sqm": 4.32000000000016e-05,
+        "material": null,
+        "global_id": "38NblWsDL1I8DljLvn67bV",
+        "height_mm": 3300.000000000086,
+        "length_mm": 19701.999999999996,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:SIP 202mm Wall - conc clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [
+          {
+            "name": "Single Window:Standard:485432",
+            "type": "Window",
+            "global_id": "0ELdlxJuP1AwzgUXpRT7iS"
+          },
+          {
+            "name": "Single Window:Standard:498006",
+            "type": "Window",
+            "global_id": "1jq3WIaE92UPTHNxmrWmzx"
+          },
+          {
+            "name": "Single Window:Standard:554383",
+            "type": "Window",
+            "global_id": "0c0us5oRfBJgddHOG86fE2"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:SIP 202mm Wall - conc clad:428745",
+        "storey": "Level 2",
+        "area_sqm": 4.329570000000042e-05,
+        "material": null,
+        "global_id": "38NblWsDL1I8DljLvn67cw",
+        "height_mm": 3500.0000000000005,
+        "length_mm": 19702.00000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:SIP 202mm Wall - conc clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [
+          {
+            "name": "Single Window:Standard:457479",
+            "type": "Window",
+            "global_id": "1ikhyTwD17yAnDcdaZ57Om"
+          },
+          {
+            "name": "Single Window:Standard:457534",
+            "type": "Window",
+            "global_id": "1ikhyTwD17yAnDcdaZ57O9"
+          },
+          {
+            "name": "Single Window:Standard:457542",
+            "type": "Window",
+            "global_id": "1ikhyTwD17yAnDcdaZ57Pn"
+          },
+          {
+            "name": "Single Window:Standard:706288",
+            "type": "Window",
+            "global_id": "2Lyq8QMkH4ges0Q77HE131"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:430064",
+        "storey": "Level 2",
+        "area_sqm": 4.0014582019503624e-05,
+        "material": null,
+        "global_id": "0lntrd6l1AGwfcnKJK5r3q",
+        "height_mm": 3000.0,
+        "length_mm": 11380.000000000007,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:430997",
+            "type": "Door",
+            "global_id": "0lntrd6l1AGwfcnKJK5qoH"
+          },
+          {
+            "name": "Single-Flush:800 x 2100:431064",
+            "type": "Door",
+            "global_id": "0lntrd6l1AGwfcnKJK5qpS"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:493612",
+        "storey": "Level 1",
+        "area_sqm": 2.4781614728492165e-05,
+        "material": null,
+        "global_id": "0NWseyvsH7_gBW225aGtuD",
+        "height_mm": 3500.0000000000005,
+        "length_mm": 9628.06296013735,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Foundation - 300mm Concrete:493879",
+        "storey": "Level 1",
+        "area_sqm": 3.0902241791516974e-05,
+        "material": null,
+        "global_id": "0NWseyvsH7_gBW225aGtyM",
+        "height_mm": 3500.0000000000005,
+        "length_mm": 8946.549314232816,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Foundation - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:849032",
+        "storey": "Level 1",
+        "area_sqm": 4.2751800000004106e-05,
+        "material": null,
+        "global_id": "2OulbipBrAkwQNv_KJRV9c",
+        "height_mm": 3900.0000000002296,
+        "length_mm": 15202.000000000102,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [],
+        "contains_openings": [
+          {
+            "name": "Single Window:Standard:735853",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oD2l"
+          },
+          {
+            "name": "Single Window:Standard:736152",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oD5Q"
+          },
+          {
+            "name": "Single Window:Standard:736223",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oD4T"
+          },
+          {
+            "name": "Single Window:Standard:736330",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oDQ8"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:SIP 202mm Wall - conc clad:198694",
+        "storey": "Level 2",
+        "area_sqm": 2.235498965607848e-05,
+        "material": "Concrete, Sand/Cement Screed + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "3lLx0gNe59vvExhby0Bfew",
+        "height_mm": 3300.0,
+        "length_mm": 6201.999999999788,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:SIP 202mm Wall - conc clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete, Sand/Cement Screed",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:198749",
+        "storey": "Level 1",
+        "area_sqm": 6.009967750001802e-06,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "3lLx0gNe59vvExhby0Bff1",
+        "height_mm": 3000.0,
+        "length_mm": 4579.999999999903,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "M_Double-Flush:1730 x 2134mm:906937",
+            "type": "Door",
+            "global_id": "2pfAHb2EL46hq_sMVbImEN"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:234869",
+        "storey": "Level 2",
+        "area_sqm": 2.1474508161068486e-05,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "28i3i5WDD8Ju0YHnzXOzdu",
+        "height_mm": 3446.220119452649,
+        "length_mm": 4660.999999999724,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:418079",
+        "storey": "Level 1",
+        "area_sqm": 8.639999999999883e-06,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "1oPutv5ADAxgWEbAZbN6Wv",
+        "height_mm": 2699.9999999999627,
+        "length_mm": 3199.9999999999995,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:422243",
+        "storey": "Level 1",
+        "area_sqm": 5.985299999999648e-06,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "1PDnLIM013wvkZO9Lb4$wc",
+        "height_mm": 2700.000000000083,
+        "length_mm": 3041.0000000000005,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:422466",
+            "type": "Door",
+            "global_id": "1PDnLIM013wvkZO9Lb4$s7"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - 165 Partition (1-hr):424922",
+        "storey": "Level 1",
+        "area_sqm": 5.985299999999645e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "1PDnLIM013wvkZO9Lb4$GV",
+        "height_mm": 2700.000000000083,
+        "length_mm": 3041.000000000002,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - 165 Partition (1-hr)",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 139.7
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:425292",
+            "type": "Door",
+            "global_id": "1$p8tACJ938vr1_lKOJJ9g"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - 165 Partition (1-hr):425745",
+        "storey": "Level 1",
+        "area_sqm": 6.4122299999998515e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "1$p8tACJ938vr1_lKOJJ0t",
+        "height_mm": 2700.000000000083,
+        "length_mm": 2558.449999999908,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - 165 Partition (1-hr)",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 139.7
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:427092",
+        "storey": "Level 1",
+        "area_sqm": 6.110580000000165e-05,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "38NblWsDL1I8DljLvn67Sd",
+        "height_mm": 3900.000000000083,
+        "length_mm": 19821.99999999999,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single Window:Standard:744525",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oBQF"
+          },
+          {
+            "name": "Single Window:Standard:744524",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oBQE"
+          },
+          {
+            "name": "Single Window:Standard:744523",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oBQ9"
+          },
+          {
+            "name": "Single Window:Standard:744522",
+            "type": "Window",
+            "global_id": "20nhVaBTTAJguMI9o6oBQ8"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:429964",
+        "storey": "Level 2",
+        "area_sqm": 2.4805096468274934e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0lntrd6l1AGwfcnKJK5r28",
+        "height_mm": 3000.0,
+        "length_mm": 6201.999999999788,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:485679",
+            "type": "Door",
+            "global_id": "0ELdlxJuP1AwzgUXpRT7eB"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:430318",
+        "storey": "Level 2",
+        "area_sqm": 1.3025435742792085e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0lntrd6l1AGwfcnKJK5q$g",
+        "height_mm": 3000.0,
+        "length_mm": 2823.999999999897,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:431198",
+            "type": "Door",
+            "global_id": "0lntrd6l1AGwfcnKJK5qjQ"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:430361",
+        "storey": "Level 2",
+        "area_sqm": 1.2819259192305262e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0lntrd6l1AGwfcnKJK5quT",
+        "height_mm": 3000.0,
+        "length_mm": 2880.0,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:430412",
+        "storey": "Level 2",
+        "area_sqm": 6.645795311835126e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0lntrd6l1AGwfcnKJK5qv8",
+        "height_mm": 3000.0,
+        "length_mm": 2156.9999999998263,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Single-Flush:800 x 2100:431144",
+            "type": "Door",
+            "global_id": "0lntrd6l1AGwfcnKJK5qii"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:430859",
+        "storey": "Level 2",
+        "area_sqm": 1.9558993161068517e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0lntrd6l1AGwfcnKJK5qmF",
+        "height_mm": 3000.0,
+        "length_mm": 4660.999999999722,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [
+          {
+            "name": "Pocket_Slider_Door_5851:2.027 x 0.945:505974",
+            "type": "Door",
+            "global_id": "2MWqvKy9535viQk_YsG9Xh"
+          }
+        ],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:493697",
+        "storey": "Level 1",
+        "area_sqm": 7.456369583215555e-05,
+        "material": "CL Concrete_ panels",
+        "global_id": "0NWseyvsH7_gBW225aGtwW",
+        "height_mm": 3500.0000000000005,
+        "length_mm": 21026.0160241332,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "CL Concrete_ panels",
+            "thickness_mm": 280.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:493790",
+        "storey": "Level 1",
+        "area_sqm": 5.518357626384972e-05,
+        "material": "CL Concrete_ panels",
+        "global_id": "0NWseyvsH7_gBW225aGtx$",
+        "height_mm": 3500.0000000000005,
+        "length_mm": 15750.136126383872,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "CL Concrete_ panels",
+            "thickness_mm": 280.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:497540",
+        "storey": "Level 2",
+        "area_sqm": 1.3560271245453018e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "1jq3WIaE92UPTHNxmrWm6f",
+        "height_mm": 3000.0,
+        "length_mm": 2440.000000000008,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:506386",
+        "storey": "Level 2",
+        "area_sqm": 6.132334130744109e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2MWqvKy9535viQk_YsG9eF",
+        "height_mm": 3000.0,
+        "length_mm": 1200.0000000000114,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:506797",
+        "storey": "Level 2",
+        "area_sqm": 4.984572879799174e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2MWqvKy9535viQk_YsG9km",
+        "height_mm": 3000.0,
+        "length_mm": 1020.0000000000001,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:SIP 202mm Wall - conc clad:530178",
+        "storey": "Level 2",
+        "area_sqm": 5.91356954504015e-06,
+        "material": "Concrete, Sand/Cement Screed + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "39NeMDaWPEh9g8$CxWwg0v",
+        "height_mm": 3300.0,
+        "length_mm": 6201.999999999788,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:SIP 202mm Wall - conc clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete, Sand/Cement Screed",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:599841",
+        "storey": "Level 2",
+        "area_sqm": 2.5329999999999854e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "3_T6_Ndub6XO_ef59N4DQX",
+        "height_mm": 3400.0,
+        "length_mm": 7149.999999999957,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:599906",
+        "storey": "Level 2",
+        "area_sqm": 4.658679999999999e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "3_T6_Ndub6XO_ef59N4DRY",
+        "height_mm": 3400.0,
+        "length_mm": 13701.999999999995,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:599951",
+        "storey": "Level 2",
+        "area_sqm": 1.4109999999999824e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "3_T6_Ndub6XO_ef59N4DOF",
+        "height_mm": 3400.0,
+        "length_mm": 4149.999999999954,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:627064",
+        "storey": "Level 1",
+        "area_sqm": 3.661500000000001e-05,
+        "material": "CL Concrete_ panels",
+        "global_id": "1RUi90wQT3ihQ$96bMNGiu",
+        "height_mm": 1500.0,
+        "length_mm": 24690.000000000004,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "CL Concrete_ panels",
+            "thickness_mm": 280.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:627729",
+        "storey": "Level 1",
+        "area_sqm": 9.754534302697172e-06,
+        "material": "CL Concrete_ panels",
+        "global_id": "1RUi90wQT3ihQ$96bMNGvH",
+        "height_mm": 1500.0,
+        "length_mm": 6722.75901146691,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "CL Concrete_ panels",
+            "thickness_mm": 280.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:CL_W1:628523",
+        "storey": "Level 1",
+        "area_sqm": 2.7615000000000002e-05,
+        "material": "CL Concrete_ panels",
+        "global_id": "1RUi90wQT3ihQ$96bMNGrh",
+        "height_mm": 1500.0,
+        "length_mm": 18449.000000000007,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:CL_W1",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "CL Concrete_ panels",
+            "thickness_mm": 280.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:655533",
+        "storey": "Ceiling",
+        "area_sqm": 3.3e-06,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "27lifGE4TF58A1JhY9194T",
+        "height_mm": 549.9999999998528,
+        "length_mm": 6202.0,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:745997",
+        "storey": "Level 2",
+        "area_sqm": 2.6624e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "2WEjrPJHb8ux9RBvH$Iq0S",
+        "height_mm": 2600.0,
+        "length_mm": 10240.0,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:746235",
+        "storey": "Level 2",
+        "area_sqm": 2.0632703515914624e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "2WEjrPJHb8ux9RBvH$Iq3g",
+        "height_mm": 2600.0,
+        "length_mm": 7225.8475772933725,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:746589",
+        "storey": "Level 2",
+        "area_sqm": 1.4065499814951854e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "2WEjrPJHb8ux9RBvH$IqPC",
+        "height_mm": 2600.0,
+        "length_mm": 5000.000000000002,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:746634",
+        "storey": "Level 2",
+        "area_sqm": 1.3415499814951872e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "2WEjrPJHb8ux9RBvH$IqQR",
+        "height_mm": 2600.0,
+        "length_mm": 5200.000000000003,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:746766",
+        "storey": "Level 2",
+        "area_sqm": 1.8344471343191e-05,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "2WEjrPJHb8ux9RBvH$IqSV",
+        "height_mm": 2600.0,
+        "length_mm": 7095.7582800919745,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:765523",
+        "storey": "Level 2",
+        "area_sqm": 8.339000000000011e-06,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "38BWtPCUX0VgAKmmGnoLFm",
+        "height_mm": 3100.0,
+        "length_mm": 2839.9999999999995,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Retaining - 300mm Concrete:765620",
+        "storey": "Level 2",
+        "area_sqm": 8.338999999999992e-06,
+        "material": "Concrete - Cast In Situ",
+        "global_id": "38BWtPCUX0VgAKmmGnoLCN",
+        "height_mm": 3100.0,
+        "length_mm": 2839.999999999993,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Retaining - 300mm Concrete",
+        "load_bearing": true,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Concrete - Cast In Situ",
+            "thickness_mm": 300.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:768442",
+        "storey": "Level 2",
+        "area_sqm": 1.3668918239185465e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "0nbT7BoYn1WRd0KTefRTuG",
+        "height_mm": 3000.0,
+        "length_mm": 2880.0,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Wall - Timber Clad:845266",
+        "storey": "Level 1",
+        "area_sqm": 1.3638900000000573e-05,
+        "material": "Finishes - Exterior - Timber Cladding + Wood - Stud Layer + Structure - Timber Insulated Panel - OSB + Structure - Timber Insulated Panel - Insulation + Finishes - Interior - Plasterboard",
+        "global_id": "3rPRxvVIT7WRZKOFIc3wXL",
+        "height_mm": 2700.000000000168,
+        "length_mm": 4699.999999999875,
+        "fire_rating": null,
+        "is_external": true,
+        "object_type": "Basic Wall:Wall - Timber Clad",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 22.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 25.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - Insulation",
+            "thickness_mm": 112.0
+          },
+          {
+            "name": "Structure - Timber Insulated Panel - OSB",
+            "thickness_mm": 15.0
+          },
+          {
+            "name": "Finishes - Interior - Plasterboard",
+            "thickness_mm": 13.000000000000002
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - 165 Partition (1-hr):906885",
+        "storey": "Level 1",
+        "area_sqm": 4.8572999999997705e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2pfAHb2EL46hq_sMVbImEh",
+        "height_mm": 2700.000000000083,
+        "length_mm": 1982.5499999998158,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - 165 Partition (1-hr)",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 139.7
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 12.7
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:937935",
+        "storey": "Level 2",
+        "area_sqm": 6.2398162670668925e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2wm6PO6TX9IxXwLP21Hz10",
+        "height_mm": 3000.0,
+        "length_mm": 1836.9999999998263,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:938974",
+        "storey": "Level 2",
+        "area_sqm": 1.2619456698023846e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2wm6PO6TX9IxXwLP21HynH",
+        "height_mm": 3000.0,
+        "length_mm": 2503.9999999998977,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:939084",
+        "storey": "Level 2",
+        "area_sqm": 1.0097283290847207e-05,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2wm6PO6TX9IxXwLP21Hyl3",
+        "height_mm": 3000.0,
+        "length_mm": 2494.9000000000683,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Interior - Partition:976752",
+        "storey": "Foundation",
+        "area_sqm": 2.3672000000000355e-06,
+        "material": "Finishes - Interior - Gypsum Wall Board + Wood - Stud Layer",
+        "global_id": "2hD3j_DmLBXxhCCy1gOWbj",
+        "height_mm": 799.9999999999998,
+        "length_mm": 3160.999999999996,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Interior - Partition",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Wood - Stud Layer",
+            "thickness_mm": 100.0
+          },
+          {
+            "name": "Finishes - Interior - Gypsum Wall Board",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      },
+      {
+        "name": "Basic Wall:Cavity wall_sliders:977133",
+        "storey": "Level 1",
+        "area_sqm": 9.368699999999936e-06,
+        "material": "Finishes - Exterior - Timber Cladding + Metal Stud Layer + Air",
+        "global_id": "2hD3j_DmLBXxhCCy1gOWRm",
+        "height_mm": 3300.0,
+        "length_mm": 2939.9999999999445,
+        "fire_rating": null,
+        "is_external": false,
+        "object_type": "Basic Wall:Cavity wall_sliders",
+        "load_bearing": false,
+        "thickness_mm": null,
+        "material_layers": [
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 10.0
+          },
+          {
+            "name": "Metal Stud Layer",
+            "thickness_mm": 20.0
+          },
+          {
+            "name": "Air",
+            "thickness_mm": 220.0
+          },
+          {
+            "name": "Metal Stud Layer",
+            "thickness_mm": 20.0
+          },
+          {
+            "name": "Finishes - Exterior - Timber Cladding",
+            "thickness_mm": 10.0
+          }
+        ],
+        "contains_openings": [],
+        "structural_function": null
+      }
+    ],
+    "proxies": [],
+    "openings": {
+      "doors": [
+        {
+          "name": "Single-Flush:800 x 2100:422466",
+          "storey": "Level 1",
+          "material": null,
+          "width_mm": 799.999999999999,
+          "global_id": "1PDnLIM013wvkZO9Lb4$s7",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:422243",
+            "global_id": "1PDnLIM013wvkZO9Lb4$wc"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 799.999999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Entrance door:Entrance door:423107",
+          "storey": null,
+          "material": null,
+          "width_mm": 1439.9999999999998,
+          "global_id": "1PDnLIM013wvkZO9Lb4$i6",
+          "height_mm": 2660.0000000000005,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Entrance door:Entrance door",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1439.9999999999998,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:425292",
+          "storey": "Level 1",
+          "material": null,
+          "width_mm": 799.999999999999,
+          "global_id": "1$p8tACJ938vr1_lKOJJ9g",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - 165 Partition (1-hr):424922",
+            "global_id": "1PDnLIM013wvkZO9Lb4$GV"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 799.999999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass:485452",
+          "storey": null,
+          "material": null,
+          "width_mm": 1439.9999999999975,
+          "global_id": "0ELdlxJuP1AwzgUXpRT7je",
+          "height_mm": 2080.0,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1439.9999999999975,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:430997",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 800.0,
+          "global_id": "0lntrd6l1AGwfcnKJK5qoH",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:430064",
+            "global_id": "0lntrd6l1AGwfcnKJK5r3q"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 800.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:431064",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 799.9999999999998,
+          "global_id": "0lntrd6l1AGwfcnKJK5qpS",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:430064",
+            "global_id": "0lntrd6l1AGwfcnKJK5r3q"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 799.9999999999998,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:431144",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 800.0,
+          "global_id": "0lntrd6l1AGwfcnKJK5qii",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:430412",
+            "global_id": "0lntrd6l1AGwfcnKJK5qv8"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 800.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:431198",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 799.9999999999999,
+          "global_id": "0lntrd6l1AGwfcnKJK5qjQ",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:430318",
+            "global_id": "0lntrd6l1AGwfcnKJK5q$g"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 799.9999999999999,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Single-Flush:800 x 2100:485679",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 800.0,
+          "global_id": "0ELdlxJuP1AwzgUXpRT7eB",
+          "height_mm": 2100.0,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:429964",
+            "global_id": "0lntrd6l1AGwfcnKJK5r28"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Single-Flush:800 x 2100",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 800.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Pocket_Slider_Door_5851:2.027 x 0.945:505974",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1890.000000000021,
+          "global_id": "2MWqvKy9535viQk_YsG9Xh",
+          "height_mm": 2027.0000000000007,
+          "host_wall": {
+            "name": "Basic Wall:Interior - Partition:430859",
+            "global_id": "0lntrd6l1AGwfcnKJK5qmF"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Pocket_Slider_Door_5851:2.027 x 0.945",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1890.000000000021,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass:704276",
+          "storey": null,
+          "material": null,
+          "width_mm": 1439.9999999999975,
+          "global_id": "1LMg1ZkATBJwu7hODVWkYl",
+          "height_mm": 2080.0,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1439.9999999999975,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass:704286",
+          "storey": null,
+          "material": null,
+          "width_mm": 1439.9999999999975,
+          "global_id": "1LMg1ZkATBJwu7hODVWkYb",
+          "height_mm": 2080.0,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Curtain Wall Dbl Glass:Curtain Wall Dbl Glass",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1439.9999999999975,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Entrance door:Entrance door:709246",
+          "storey": null,
+          "material": null,
+          "width_mm": 1439.9999999999998,
+          "global_id": "3Yxgiuz3TDpeHhosGP5aso",
+          "height_mm": 2660.0000000000005,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Entrance door:Entrance door",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1439.9999999999998,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "M_Double-Flush:1730 x 2134mm:906937",
+          "storey": "Level 1",
+          "material": null,
+          "width_mm": 1729.9999999999993,
+          "global_id": "2pfAHb2EL46hq_sMVbImEN",
+          "height_mm": 2133.999999999999,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:198749",
+            "global_id": "3lLx0gNe59vvExhby0Bff1"
+          },
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "M_Double-Flush:1730 x 2134mm",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1729.9999999999993,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Pocket_Slider_Door_5851:2.027 x 0.945:939962",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1890.000000000021,
+          "global_id": "2wm6PO6TX9IxXwLP21HyWr",
+          "height_mm": 2027.0000000000007,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Pocket_Slider_Door_5851:2.027 x 0.945",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1890.000000000021,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        },
+        {
+          "name": "Pocket_Slider_Door_5851:2.027 x 0.945:940221",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1890.000000000021,
+          "global_id": "2wm6PO6TX9IxXwLP21HySo",
+          "height_mm": 2027.0000000000007,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": false,
+          "object_type": "Pocket_Slider_Door_5851:2.027 x 0.945",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1890.000000000021,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null
+        }
+      ],
+      "windows": [
+        {
+          "name": "Single Window:Standard:457479",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "1ikhyTwD17yAnDcdaZ57Om",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428745",
+            "global_id": "38NblWsDL1I8DljLvn67cw"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:457534",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "1ikhyTwD17yAnDcdaZ57O9",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428745",
+            "global_id": "38NblWsDL1I8DljLvn67cw"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:457542",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "1ikhyTwD17yAnDcdaZ57Pn",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428745",
+            "global_id": "38NblWsDL1I8DljLvn67cw"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:485432",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "0ELdlxJuP1AwzgUXpRT7iS",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428588",
+            "global_id": "38NblWsDL1I8DljLvn67bV"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "M_Skylight:1180 x 1170mm:488881",
+          "storey": "Roof Line",
+          "material": null,
+          "width_mm": 1172.537682966587,
+          "global_id": "12QTT5rufCoeOFfLiN060S",
+          "height_mm": 1224.5376829666234,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Skylight:1180 x 1170mm",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1172.537682966587,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 2.7291125068598745e-06
+        },
+        {
+          "name": "M_Skylight:1180 x 1170mm:489062",
+          "storey": "Roof Line",
+          "material": null,
+          "width_mm": 1172.537682966587,
+          "global_id": "12QTT5rufCoeOFfLiN06FB",
+          "height_mm": 1224.5376829666234,
+          "host_wall": null,
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "M_Skylight:1180 x 1170mm",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1172.537682966587,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 2.7291125068598745e-06
+        },
+        {
+          "name": "Single Window:Standard:498006",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "1jq3WIaE92UPTHNxmrWmzx",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428588",
+            "global_id": "38NblWsDL1I8DljLvn67bV"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:554383",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "0c0us5oRfBJgddHOG86fE2",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428588",
+            "global_id": "38NblWsDL1I8DljLvn67bV"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:706288",
+          "storey": "Level 2",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "2Lyq8QMkH4ges0Q77HE131",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:SIP 202mm Wall - conc clad:428745",
+            "global_id": "38NblWsDL1I8DljLvn67cw"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.51868000000218e-06
+        },
+        {
+          "name": "Single Window:Standard:735853",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oD2l",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:849032",
+            "global_id": "2OulbipBrAkwQNv_KJRV9c"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002175e-06
+        },
+        {
+          "name": "Single Window:Standard:736152",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oD5Q",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:849032",
+            "global_id": "2OulbipBrAkwQNv_KJRV9c"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002175e-06
+        },
+        {
+          "name": "Single Window:Standard:736223",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oD4T",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:849032",
+            "global_id": "2OulbipBrAkwQNv_KJRV9c"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002175e-06
+        },
+        {
+          "name": "Single Window:Standard:736330",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oDQ8",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:849032",
+            "global_id": "2OulbipBrAkwQNv_KJRV9c"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002175e-06
+        },
+        {
+          "name": "Single Window:Standard:744522",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oBQ8",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:427092",
+            "global_id": "38NblWsDL1I8DljLvn67Sd"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002173e-06
+        },
+        {
+          "name": "Single Window:Standard:744523",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oBQ9",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:427092",
+            "global_id": "38NblWsDL1I8DljLvn67Sd"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002173e-06
+        },
+        {
+          "name": "Single Window:Standard:744524",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oBQE",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:427092",
+            "global_id": "38NblWsDL1I8DljLvn67Sd"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002173e-06
+        },
+        {
+          "name": "Single Window:Standard:744525",
+          "storey": "Level 1 Living Rm.",
+          "material": null,
+          "width_mm": 1500.0,
+          "global_id": "20nhVaBTTAJguMI9o6oBQF",
+          "height_mm": 2700.0,
+          "host_wall": {
+            "name": "Basic Wall:Wall - Timber Clad:427092",
+            "global_id": "38NblWsDL1I8DljLvn67Sd"
+          },
+          "fire_rating": null,
+          "is_external": true,
+          "object_type": "Single Window:Standard",
+          "orientation": null,
+          "nominal_size": null,
+          "thickness_mm": 1500.0,
+          "operation_type": null,
+          "acoustic_rating": null,
+          "connected_rooms": [],
+          "leaf_dimensions": null,
+          "egress_dimensions": null,
+          "wallhole_dimensions": null,
+          "head_height_mm": null,
+          "sill_height_mm": 0.0,
+          "glazing_fraction": null,
+          "thermal_transmittance": null,
+          "area_sqm": 5.639880000002173e-06
+        }
+      ]
+    },
+    "coverings": [],
+    "wet_areas": [],
+    "furnishing": [],
+    "project_metadata": {
+      "scale": null,
+      "units": {
+        "count": 17,
+        "units": [
+          {
+            "name": "METRE",
+            "prefix": "MILLI",
+            "unit_type": "LENGTHUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "SQUARE_METRE",
+            "prefix": "None",
+            "unit_type": "AREAUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "DEGREE",
+            "prefix": null,
+            "unit_type": "PLANEANGLEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "CUBIC_METRE",
+            "prefix": "None",
+            "unit_type": "VOLUMEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "THERMALTRANSMITTANCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "USERDEFINED",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "THERMALRESISTANCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "VOLUMETRICFLOWRATEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "NEWTON",
+            "prefix": "KILO",
+            "unit_type": "FORCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "PASCAL",
+            "prefix": "None",
+            "unit_type": "PRESSUREUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "WATT",
+            "prefix": "None",
+            "unit_type": "POWERUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "VOLT",
+            "prefix": "None",
+            "unit_type": "ELECTRICVOLTAGEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "AMPERE",
+            "prefix": "None",
+            "unit_type": "ELECTRICCURRENTUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": null,
+            "prefix": null,
+            "unit_type": "USERDEFINED",
+            "conversion_factor": null
+          },
+          {
+            "name": "LUX",
+            "prefix": "None",
+            "unit_type": "ILLUMINANCEUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "LUMEN",
+            "prefix": "None",
+            "unit_type": "LUMINOUSFLUXUNIT",
+            "conversion_factor": null
+          },
+          {
+            "name": "CANDELA",
+            "prefix": "None",
+            "unit_type": "LUMINOUSINTENSITYUNIT",
+            "conversion_factor": null
+          }
+        ]
+      },
+      "north_point": {
+        "x": 0.0,
+        "y": 1.0,
+        "description": "True North at 0.0",
+        "compass_bearing_degrees": 0.0,
+        "angle_from_x_axis_degrees": 90.0
+      },
+      "project_name": "001-00",
+      "drawing_name": null,
+      "drawing_type": null,
+      "project_description": "None",
+      "drawing_number": null
+    },
+    "distribution_elements": [],
+    "rooms_internal_layout": [],
+    "building_site_dimensions": {
+      "fence": [],
+      "driveway": [],
+      "ffl_levels": [
+        {
+          "name": "Foundation",
+          "long_name": "Foundation",
+          "elevation_m": -0.7999999999999998
+        },
+        {
+          "name": "Level 1 Living Rm.",
+          "long_name": "Level 1 Living Rm.",
+          "elevation_m": -0.55
+        },
+        {
+          "name": "Level 1",
+          "long_name": "Level 1",
+          "elevation_m": 0.0
+        },
+        {
+          "name": "Ceiling",
+          "long_name": "Ceiling",
+          "elevation_m": 2.7000000000000832
+        },
+        {
+          "name": "Level 2",
+          "long_name": "Level 2",
+          "elevation_m": 3.0
+        },
+        {
+          "name": "Roof Line",
+          "long_name": "Roof Line",
+          "elevation_m": 6.0
+        }
+      ],
+      "site_area_sqm": null,
+      "rear_setback_m": null,
+      "front_setback_m": null,
+      "north_reference": null,
+      "side_setbacks_m": {
+        "left": null,
+        "right": null
+      },
+      "boundary_segments": [],
+      "private_open_space": {
+        "spaces": [],
+        "total_area": null
+      },
+      "building_footprint_area_sqm": null
+    },
+    "stairs_ramps_balustrades": [
+      {
+        "name": "Railing:SH_1100mm:566588",
+        "type": "NOTDEFINED",
+        "storey": "Level 1 Living Rm.",
+        "global_id": "1v0G0fYgbCaRB8j$bCldej",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:567887",
+        "type": "NOTDEFINED",
+        "storey": "Level 2",
+        "global_id": "0344_EjZb5chH4bVWlO1Dl",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:665711",
+        "type": "NOTDEFINED",
+        "storey": null,
+        "global_id": "2ZlFFrvcbDavSm_g3LjLiI",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:931377",
+        "type": "NOTDEFINED",
+        "storey": "Level 2",
+        "global_id": "1XYPH1jhn1UAOARoEEqzJ5",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:931569",
+        "type": "NOTDEFINED",
+        "storey": "Level 2",
+        "global_id": "1XYPH1jhn1UAOARoEEqzG5",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:931630",
+        "type": "NOTDEFINED",
+        "storey": "Level 2",
+        "global_id": "1XYPH1jhn1UAOARoEEqzNQ",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:932401",
+        "type": "NOTDEFINED",
+        "storey": null,
+        "global_id": "1SDKa3RCzEzvwMoVlm1Auv",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:932862",
+        "type": "NOTDEFINED",
+        "storey": "Level 2",
+        "global_id": "1SDKa3RCzEzvwMoVlm1A$s",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:933811",
+        "type": "NOTDEFINED",
+        "storey": null,
+        "global_id": "0H7vgQcNjEo8efFHzwVqPR",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Railing:SH_1100mm:933840",
+        "type": "NOTDEFINED",
+        "storey": "Ceiling",
+        "global_id": "0H7vgQcNjEo8efFHzwVqOu",
+        "height_mm": 1100.0,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Precast Stair:Stair:513254",
+        "type": "Stair",
+        "storey": "Level 1 Living Rm.",
+        "global_id": "07dHKEjXj6kwcHAxpyAkMS",
+        "height_mm": null,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Assembled Stair:Stair:665557",
+        "type": "Stair",
+        "storey": "Level 1",
+        "global_id": "2ZlFFrvcbDavSm_g3LjLIe",
+        "height_mm": null,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Precast Stair:Stair:725045",
+        "type": "Stair",
+        "storey": "Ceiling",
+        "global_id": "1N_4TwOEH5194SbNmRTDNX",
+        "height_mm": null,
+        "material": null,
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Precast Stair:Stair:513254 Run 1",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "07dHKEjXj6kwcHAxpyAkHd",
+        "height_mm": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Assembled Stair:Stair:665557 Run 1",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "2ZlFFrvcbDavSm_g3LjLIb",
+        "height_mm": null,
+        "material": "Wood_Walnut black",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      },
+      {
+        "name": "Precast Stair:Stair:725045 Run 1",
+        "type": "StairFlight",
+        "storey": null,
+        "global_id": "1N_4TwOEH5194SbNmRTDNY",
+        "height_mm": null,
+        "material": "Concrete, Cast In Situ",
+        "total_rise": null,
+        "fire_rating": null,
+        "riser_count": null,
+        "riser_height": null,
+        "tread_length": null,
+        "handrail_present": null,
+        "going": null
+      }
+    ]
+  },
+  "status": "success",
+  "file_name": "racbasicsampleproject.ifc",
+  "file_size_mb": 27.12,
+  "extraction_metadata": {
+    "note": "IFC model has no room definitions (IfcSpace). Room data will come from PDF drawing extraction via Vision LLM.",
+    "has_zones": false,
+    "has_spaces": false,
+    "ifc_schema": "IFC2X3",
+    "entity_counts": {
+      "IfcAnnotation": 4,
+      "IfcBuildingElementProxy": 66,
+      "IfcColumn": 3,
+      "IfcCovering": 2,
+      "IfcCurtainWall": 9,
+      "IfcDoor": 16,
+      "IfcMember": 144,
+      "IfcPlate": 44,
+      "IfcRailing": 10,
+      "IfcRoof": 2,
+      "IfcSlab": 35,
+      "IfcStair": 3,
+      "IfcStairFlight": 3,
+      "IfcWall": 6,
+      "IfcWallStandardCase": 41,
+      "IfcWindow": 17,
+      "IfcFlowTerminal": 19,
+      "IfcOpeningElement": 35,
+      "IfcFurnishingElement": 35,
+      "IfcGrid": 4,
+      "IfcDistributionPort": 60,
+      "IfcBuilding": 1,
+      "IfcBuildingStorey": 6,
+      "IfcSite": 4
+    },
+    "extraction_date": "2026-04-25T10:49:42.000000",
+    "extractor_version": "3.0",
+    "llm_gap_analysis": "* For the 6 walls missing material, infer their material properties by analyzing their location within the building (e.g., exterior vs. interior, wet areas) and the material properties of adjacent walls.\n* For all 47 walls missing fire rating, assign a default fire rating (e.g., 1-hour or 2-hour) based on the assumed building occupancy type and local building code minimums.\n* For the 47 walls missing fire rating, infer more specific fire ratings by analyzing their adjacency to fire-rated elements (e.g., stairwells, shafts, fire compartments) or their function (e.g., demising walls, corridor walls)."
+  }
+}
