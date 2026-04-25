@@ -1,0 +1,4 @@
+ifcopenshell
+langgraph
+langchain-google-genai
+google-generativeai
